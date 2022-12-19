@@ -1,0 +1,26 @@
+//Tuto : Créer une API Rest - Utiliser MongoDB
+https://mega.nz/folder/soIiwAKQ#fveG2IDytsNJW5hUjmyoiQ
+
+//11.07
+
+
+//Tuto : Créer une API Rest - Utiliser Mongoose
+https://mega.nz/folder/RtRm0LhC#-HBTQbj071L13sjF4KUgjQ
+//Tuto : Créer une API Rest - Gérer l'authentification
+https://mega.nz/folder/904GGI5C#RP0PBxBdqBOMm_K87j-F5A
+
+/*path connection URL
+mongodb://localhost:27017
+*/
+
+/*below to avoid bugs
+mongodb://127.0.0.1:27017
+*/
+
+//id: veronique-c
+//mdp: 5qqEIbcML920VD43
+
+/* path connection URL to database => test
+mongodb+srv://veronique-c:5qqEIbcML920VD43@cluster0.ltzplr1.mongodb.net/test
+
+*/
